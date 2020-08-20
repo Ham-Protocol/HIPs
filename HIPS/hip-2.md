@@ -116,6 +116,8 @@ The top 100 holders have 68.2317% of pool (66586 tokens)
 The top 250 holders have 85.3906% of pool (83331 tokens)
 1357 holders in total (97588 tokens)
 ```
+![](https://cdn.discordapp.com/attachments/744096021780627528/745177144346279966/unknown.png)
+
 ### Distribution at peak YAM, right before the second rebase.
 ```
 Distribution for LEND out of total 138312258 tokens
@@ -218,7 +220,7 @@ The top 250 holders have 88.5469% of pool (1616023 tokens)
 1041 holders in total (1825047 tokens)
 ```
 
-![](https://i.imgur.com/9cfshLT.png)
+![](https://cdn.discordapp.com/attachments/744096021780627528/745171299575267368/unknown.png)
 
 
 ## Decision

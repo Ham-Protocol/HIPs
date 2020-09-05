@@ -7,7 +7,7 @@ hip: 3
 title: Weights of Yield Farming Pools
 author: Eden Au (@edenau), Ivan Martinez (@0xKiwi)
 discussions-to: HAM Discord
-status: Draft
+status: Accepted
 type: Meta
 category Distribution
 created: 2020-08-19

@@ -54,11 +54,11 @@ Using the PASTA and YAM pools as reference, we should adjust the pools we have a
 ```
 -= Total 1 mil =-
   WETH:    400k
-   YFI:    150k
+   YFI:    125k
  yyCRV:    150k
    SNX:    100k
   LINK:    100k
-  LEND:     75k
+  LEND:     100k
   BZRX:     25k
   ```
 

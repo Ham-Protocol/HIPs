@@ -5,7 +5,6 @@ tags: HIPs
 ```
 hip: 2
 title: Yield Farming Pools for Initial HAM Distribution
-author: Eden Au (@edenau), Ivan Martinez (@0xKiwi), Cucurbit (@PiperCucu)
 discussions-to: HAM Discord
 status: Draft
 type: Meta

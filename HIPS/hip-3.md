@@ -5,7 +5,6 @@ tags: HIPs
 ```
 hip: 3
 title: Weights of Yield Farming Pools
-author: Eden Au (@edenau), Ivan Martinez (@0xKiwi)
 discussions-to: HAM Discord
 status: Accepted
 type: Meta

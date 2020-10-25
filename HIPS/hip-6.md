@@ -5,7 +5,6 @@ tags: HIPs
 ```
 hip: 6
 title: Distribution and Liquidity Provision Structure
-author: Ivan Martinez (@0xKiwi), Eden Au (@edenau), Gabriel Saunders (@Ponjinge1)
 discussions-to: HAM Discord
 status: Accepted
 type: Meta

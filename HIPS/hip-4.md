@@ -5,7 +5,6 @@ tags: HIPs
 ```
 hip: 4
 title: Method of Treasury Accrual
-author: Ivan Martinez (@0xKiwi), Eden Au (@edenau)
 discussions-to: HAM Discord
 status: Accepted
 type: Meta

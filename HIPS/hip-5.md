@@ -5,7 +5,6 @@ tags: HIPs
 ```
 hip: 5
 title: Funding Public Goods through Farmer Tax
-author: Ivan Martinez (@0xKiwi), Eden Au (@edenau)
 discussions-to: HAM Discord
 status: Accepted
 type: Meta
